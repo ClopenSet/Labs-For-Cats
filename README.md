@@ -26,7 +26,8 @@ This is my educational project repository, used to store various projects and co
 - "Introduction to the Theory of Computation"
 - "Algorithms Unlocked"
 - "Introduction to Algorithms"
-
+## Machine Learning 机器学习
+- "Introduction to Machine Learning" (Ethem Alpaydin)
 ## License 许可
 This project is licensed under the MIT License. For more details, please see the LICENSE file.
 此项目使用 MIT 许可证。详细信息请查看 LICENSE 文件。
